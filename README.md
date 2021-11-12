@@ -1,0 +1,2 @@
+# technical-session
+git commands
